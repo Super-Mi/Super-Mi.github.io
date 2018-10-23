@@ -5,6 +5,14 @@ Hellow, 我是Super.Mi，一名即将面临就业和毕业的大四学生。本�
 
 留个联系方式，👉[QQ:617991647](https://super-mi.github.io/)。
 
+<p>
+上帝给了你这些天赋，如果你不用，他就会把它收回。
+</p>
+
+<p style="text-align:right;">
+        —— <a href="http://www.amazon.com/Clapton-The-Autobiography-Eric/dp/076792536X">埃里克·克莱普顿 </a>
+    </p>
+
 <!-- [演说.io](https://zhuanlan.zhihu.com/p/21280918)、[Portfolio](/portfolio)。  -->
 <!-- 病毒种，进化程度不明，多出没于[博客](https://huangxuan.me)、[微博](weibo.com/huxpro)、[知乎](https://www.zhihu.com/people/huxpro/pins/posts)、[Twitter](https://twitter.com/Huxpro/)、[Github](http://github.com/huxpro)、[Medium](https://medium.com/@Huxpro) 等地带，绝招尚在开发中。 -->
 
