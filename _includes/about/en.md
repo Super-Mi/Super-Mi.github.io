@@ -1,13 +1,14 @@
 
+> Never forget why you started, and your mission can be accomplished.
 
-> Yet another man.
+Hellow, I am Super.Mi, a senior student who is about to face employment and graduation. I am not a computer major, but I am interested in the website. I read some information online, so I got this station.
 
-
-Hi, I am *@huxpro* (Huang, Xuan), a software engineer & a designer. I am currently working on [Reason](https://reasonml.github.io/) and [Messenger.com](http://messenger.com/) at [Facebook](https://www.facebook.com/). I previously worked as Web Front-End Engineer at [Alibaba Trip](https://www.alitrip.com/); Web Front-End Infrastructure Team Lead at [Wepiao.com](https://www.crunchbase.com/organization/wepiao#/entity); And [Invited Consultant on PWA]((https://medium.com/elemefe/upgrading-ele-me-to-progressive-web-app-2a446832e509)) at [Ele.me](https://github.com/elemefe/).
+Leave a contact，👉[QQ:617991647](https://super-mi.github.io/)。
+<!-- Hi, I am *@huxpro* (Huang, Xuan), a software engineer & a designer. I am currently working on [Reason](https://reasonml.github.io/) and [Messenger.com](http://messenger.com/) at [Facebook](https://www.facebook.com/). I previously worked as Web Front-End Engineer at [Alibaba Trip](https://www.alitrip.com/); Web Front-End Infrastructure Team Lead at [Wepiao.com](https://www.crunchbase.com/organization/wepiao#/entity); And [Invited Consultant on PWA]((https://medium.com/elemefe/upgrading-ele-me-to-progressive-web-app-2a446832e509)) at [Ele.me](https://github.com/elemefe/).
 
 I studied Digital Media Art and graduated from [Communication University of China](https://en.wikipedia.org/wiki/Communication_University_of_China) by 2016, and am studying Computer Science at [Rochester Institute of Technology](https://en.wikipedia.org/wiki/Rochester_Institute_of_Technology) from 2017.
-
-
+ -->
+<!-- 
 ##### Talks
 
 - [Upgrading to Progressive Web Apps][9] · [JSConf China Shanghai 2017](http://2017.jsconf.cn/)
@@ -31,5 +32,5 @@ I studied Digital Media Art and graduated from [Communication University of Chin
 [7]: https://yanshuo.io/assets/player/?deck=593ad6fbfe88c2006a0a0d6d "The State of PWA"
 [8]: https://yanshuo.io/assets/player/?deck=594d673d570c357d0698a950 "Building PWA"
 [9]: //huangxuan.me/jsconfcn2017/
-
+ -->
 
