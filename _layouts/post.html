@@ -50,7 +50,15 @@ layout: default
                     </li>
                     {% endif %}
                 </ul>
-                <!-- <hr style="visibility: hidden;"> -->
+                <hr style="visibility: hidden;">
+
+                  {% if site.livere_uid %}
+                <!-- 来必力 评论框 start -->
+                <div class="comment">
+                     <div id="lv-container" data-id="city" data-uid="{{ site.livere_uid }}"></div>
+                </div>
+                <!-- 来必力 评论框 end -->
+                {% endif %}
 
                 {% if site.disqus_username %}
                 <!-- disqus 评论框 start -->
@@ -105,21 +113,24 @@ layout: default
   {% include mathjax_support.html %}
 {% endif %}
 
-{% if site.netease_comment %}
-<!-- 网易云跟帖JS代码 start -->
-<script src="https://img1.cache.netease.com/f2e/tie/yun/sdk/loader.js"></script>
-<script>
-  var cloudTieConfig = {
-    url: document.location.href, 
-    sourceId: "",
-    productKey: "de25fc98a6fe48b3bc8a7ae765da99a0",
-    target: "cloud-tie-wrapper"
-  };
-  var yunManualLoad = true;
-  Tie.loader("aHR0cHM6Ly9hcGkuZ2VudGllLjE2My5jb20vcGMvbGl2ZXNjcmlwdC5odG1s", true);
-</script>
-<!-- 网易云跟帖JS代码 end -->
-{% endif %}
+
+{% if site.livere_uid %}
+  <!-- 来必力JS代码  -->
+    <script type="text/javascript">
+      (function(d, s) {
+        var j, e = d.getElementsByTagName(s)[0];
+        if (typeof LivereTower === 'function') { return; }
+
+        j = d.createElement(s);
+        j.src = 'https://cdn-city.livere.com/js/embed.dist.js';
+        j.async = true;
+
+        e.parentNode.insertBefore(j, e);
+      })(document, 'script');
+    </script>
+  <!-- 来必力JS代码 end -->
+  {% endif %}
+
 
 
 {% if site.disqus_username %}
