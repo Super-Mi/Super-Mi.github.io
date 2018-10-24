@@ -62,12 +62,12 @@ kramdown:
 disqus_username: hux
 
 # Netease settings
-netease_comment: false
+netease_comment: ture
 
 
 
 # Analytics settings
-Baidu Analytics 
+# Baidu Analytics 
 ba_track_id: 11909588dd7161cadd33fa85ed2b6b76
 
 # Google Analytics
