@@ -5,7 +5,7 @@ subtitle: "How designers learn front-end development?"
 author: "Super-Mi"
 header-img: "img/post-first-article.jpg"
 header-mask: 0.3
-catalog:    true
+catalog:    false
 tags:
   - 知乎
   - Web
