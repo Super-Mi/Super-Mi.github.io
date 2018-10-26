@@ -3,14 +3,15 @@
  layout:     post
  title:      "设计师如何学习前端？"
  subtitle:   "How designers learn front-end development?"
- date:       2015-10-28 12:00:00
  author:     "SuperMi"
  header-img: "img/home-bg-o.jpg"
+ header-mask: 0.3
+ catalog:    true
  tags:
-     - 知乎
-     - Web
-     - UX/UI 
- ---
+  - 知乎
+  - Web
+  - UX/UI
+  ---
 
  > 这篇文章转载自[Hux大佬知乎](https://www.zhihu.com/question/21921588/answer/69680480)，也被刊登于[优秀网页设计](http://www.uisdc.com/head-first-front-end)等多个网站上 ;
  >便于日后指导学习。
@@ -24,13 +25,13 @@
  <br>
  <br>------------
  <br>
- <br><b>背景篇</b>
+ <br><h2>背景篇</h2>
  <br>
  <br>在这个时代学习新东西，一定要善于使用 Bing/Google 等搜索引擎…网络上的资源非常丰富，自学能力也尤为重要，尤其是对于学习技术！
  <br>
  <br>
  <br>
- <br><b>入门篇（HTML/CSS）</b>
+ <br><h2>入门篇（HTML/CSS）</h2>
  <br>
  <br>说起设计师希望学前端的初衷，大概还是因为各种华丽的网页特效/交互太过吸引人，这种感觉大概就是：“Hey，我的设计可以做成网页访问了呢！”
  <br>好在，“展示”对于前端技术来说反而是最简单的部分。所以，放下你对“编程”两个字的恐惧，<b>从“称不上是编程语言”的 HTML/CSS 开始，先做点有成就感的东西出来吧！</b>
@@ -69,7 +70,7 @@
  <br>
  <br>
  <br>
- <br><b>入门篇（JavaScript/jQuery）</b>
+ <br><h2>入门篇（JavaScript/jQuery）</h2>
  <br>
  <br>想要在网页上实现一些交互效果，比如轮播图、点击按钮后播放动画？那你就必须要开始学习 JavaScript 了！JavaScript 是一门完整、强大并且非常热门的编程语言，你在浏览器里看到的所有交互或者高级功能都是由它在背后支撑的！
  <br>
@@ -105,7 +106,7 @@
  <br>
  <br>
  <br>
- <br><b>转职方向一：前端重构 （Web Rebuild）</b>
+ <br><h2>转职方向一：前端重构 （Web Rebuild）</h2>
  <br>
  <br>业内通常把专精 HTML/CSS 的前端从业人员称为重构，而对于注重视觉效果的设计师来说，在掌握基本的 HTML/CSS 后，就可以朝着这个方向发展了。
  <br>
@@ -123,7 +124,7 @@
  <br>
  <br>
  <br>
- <br><b>转职方向二：前端工程师（Front-end Engineer）</b>
+ <br><h2>转职方向二：前端工程师（Front-end Engineer）</h2>
  <br>
  <br>如果你觉得上述的这些都还满足不了你，你渴望做出更多了不起的交互，甚至你已经喜欢上了编程，想要转行做工程师，或者成为一名全栈设计师，那么你可以朝着这个方向继续发展！
  <br>
@@ -145,7 +146,7 @@
  <br>
  <br>
  <br>
- <br><b>入行篇</b>
+ <br><h2>入行篇</h2>
  <br>
  <br>如果你能完成上述所有的学习，你已经是一名非常出色的前端学徒了！对于只是想要丰富技能的设计师或者产品经理来说，接下来的内容可能会让你感到不适 ;(
  <br>但如果你铁了心想要真正入行进入大公司从事专职前端开发的工作，那么你可以接着往下看：
