@@ -1,17 +1,16 @@
-
- ---
- layout:post
- title:"设计师如何学习前端？"
- subtitle:"How designers learn front-end development?"
- author:"SuperMi"
- header-img:"img/home-bg-o.jpg"
- header-mask: 0.3
- catalog:    true
- tags:
+---
+layout: post
+title: "设计师如何学习前端？"
+subtitle: "How designers learn front-end development?"
+author: "Super-Mi"
+header-img: "img/post-first-article.jpg"
+header-mask: 0.3
+catalog:    true
+tags:
   - 知乎
   - Web
   - UX/UI
-  ---
+---
 
  > 这篇文章转载自[Hux大佬知乎](https://www.zhihu.com/question/21921588/answer/69680480)，也被刊登于[优秀网页设计](http://www.uisdc.com/head-first-front-end)等多个网站上 ;
  >便于日后指导学习。
