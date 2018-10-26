@@ -12,16 +12,19 @@ tags:
 ---
 
 >在正式描述之前，先放个视频吧！
+
+
 ## 视频
-<div>
+
 <video width="640" height="360" controls="controls">
  
   <source src="https://dn-shimo-attachment.qbox.me/kDRjMibHWjkE3Q3y/%E4%BB%80%E4%B9%88%E6%98%AF_markdown.MP4#t=10,650" type="video/mp4">
   <source src="视频/什么是_markdown.mp4" type="video/mp4">
 Your browser does not support the video tag.
 </video>
+
 *视频来源:[youtube][i3]*
-</div>
+
 
 看完视频之后，相信你已经了解Markdown语法了。
 
@@ -172,9 +175,9 @@ _最好吃的_
 ```
 Tooltips可省略
 
-[不如](http://bruce-sha.github.io "不如的博客")
+[Super-Mi](http://bruce-sha.github.io "Super-Mi的博客")
 ```
-[不如](http://bruce-sha.github.io "不如的博客")
+[Super-Mi](http://bruce-sha.github.io "Super-Mi的博客")
 
 ### 图片超链
 ---
@@ -191,13 +194,13 @@ Tooltips可省略
 ```
 索引，1 2可以是任意字符
 
-[不如][1]
+[Super-Mi][1]
 ![GitHub Octocat][2]
 
-[1]:http://bruce-sha.github.io
+[1]:https://super-mi.github.io/
 [2]:http://github.global.ssl.fastly.net/images/modules/logos_page/Octocat.png
 ```
-[不如][1]
+[Super-Mi][1]
 <br>
 ![GitHub Octocat][2]
 
@@ -206,10 +209,10 @@ Tooltips可省略
 ```
 尖括号
 
-<http://ibruce.info>
+<https://super-mi.github.io/>
 <bu.ru@qq.com>
 ```
-<http://ibruce.info>
+<https://super-mi.github.io/>
 
 ### 代码：行内代码
 ---
@@ -221,7 +224,8 @@ val s = `hello Markdow`
 println( s )
 ```
 
-val s =`hello Markdow`</P>
+val s =`hello Markdow`
+
 println( s )
 
 ### 代码：段落代码
@@ -240,11 +244,12 @@ println( s )
 ```
 val s = "hello Markdown"
 println( s )
+
 ```
  
- ### 代码：hexo
+### 代码：段落代码
  ---
- ```
+```
  可指定编程语言，『』代表左右大括号
 
 『% codeblock [title] [lang:language] [url] [link text] %』
@@ -252,16 +257,17 @@ println( s )
 『% endcodeblock %』
  ```
  
- ### 注释
- ---
- ```
+### 注释
+---
+
+```
  用html的注释，好像只有这样？
 <!-- 注释 -->
  ```
  
- ### 转义字符
- ---
- ```
+### 转义字符
+---
+```
  用html的注释，好像只有这样？
 Markdown中的转义字符为\，转义的有：
 \\ 反斜杠
@@ -276,19 +282,16 @@ Markdown中的转义字符为\，转义的有：
 \- 减号
 \. 英文句号
 \! 感叹号
- ```
- 
- ### 其它
- ---
- ```
+```
+### 其它
+--- 
+```
  文本中可直接用html标签，但是要前后加上空行。
  
  ```
  
- ### one more thing：表格
- ---
- 
- 
+### one more thing：表格
+---
 ```
 Markdown的扩展语法，hexo不支持
 
@@ -304,14 +307,14 @@ Markdown的扩展语法，hexo不支持
 || 1920 || -10 || 32 ||
 
 
- ### 结束语
- ---
+### 结束语
+---
  
  以上基本够用，更详尽的请[参考文献10][3]，另外Markdown+R可以干大事，请[参考文献7][4]。
  
  >[本文参考][5]
  
-[1]:http://bruce-sha.github.io
+[1]:https://super-mi.github.io/
 [2]:http://github.global.ssl.fastly.net/images/modules/logos_page/Octocat.png
 [3]:http://wowubuntu.com/markdown
 [4]:http://jianshu.io/p/PpDNMG
