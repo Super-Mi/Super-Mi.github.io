@@ -1,10 +1,10 @@
 
  ---
- layout:     post
- title:      "设计师如何学习前端？"
- subtitle:   "How designers learn front-end development?"
- author:     "SuperMi"
- header-img: "img/home-bg-o.jpg"
+ layout:post
+ title:"设计师如何学习前端？"
+ subtitle:"How designers learn front-end development?"
+ author:"SuperMi"
+ header-img:"img/home-bg-o.jpg"
  header-mask: 0.3
  catalog:    true
  tags:
