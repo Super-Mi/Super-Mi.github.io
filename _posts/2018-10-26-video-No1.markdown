@@ -20,9 +20,8 @@ tags:
 <div>
 	<p align="center"> 
 <video width="100%" height="360" controls="controls">
-  
   <source src="http://hc.yinyuetai.com/888D01604965A76C0B801B5368348436.mp4" type="video/mp4">
-  <source src="movie.ogg" type="video/ogg">
+ <!--  <source src="movie.ogg" type="video/ogg"> -->
 Your browser does not support the video tag.
 </video>
     </p>
@@ -30,7 +29,7 @@ Your browser does not support the video tag.
 
 >视频来自 
 
-<a href="http://m2.yinyuetai.com/video.html?id=3111291 target="_blank">@ [音悦台]</a>，Super-Mi仅作分享，请勿用于商业用途。
+<a href="http://m2.yinyuetai.com/video.html?id=3111291" target="_blank">@ [音悦台]</a>，Super-Mi仅作分享，请勿用于商业用途。
 
-[1]:http://m2.yinyuetai.com/video.html?id=3111291
+<!-- [1]:http://m2.yinyuetai.com/video.html?id=3111291 -->
 

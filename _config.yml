@@ -108,32 +108,35 @@ page-mathjax: false
 # Friends
 friends: [
     {
-        title: "Dr-F",
-       <a href: "https://dreaming-forest.github.io/#" target="_blank"> </a>
+        title: "墨灵音乐",
+        href: "https://music.mli.im/vip.music"
     },{
         title: "不死鸟",
-       <a href: "https://lai.yuweining.cn/" target="_blank"> </a>
+        href: "https://lai.yuweining.cn/" 
     },{
-        title: "前端外刊评论",
-        href: "http://qianduan.guru/"
+        title: "在线之家",
+        href: "http://www.1993s.top/"
     },{
-        title: "天镶的博客",
-        href: "http://lingyu.wang/"
+        title: "w3school",
+        href: "http://www.w3school.com.cn/"
     },{
-        title: "Luke 的自留地",
-        href: "http://hmqk1995.github.io"
+        title: "脚本之家",
+        href: "https://m.jb51.net/"
     },{
-        title: "Ebn's Blog",
-        href: "http://ebnbin.com/"
+        title: "Huxpro",
+        href: "https://github.com/Huxpro/huxpro.github.io"
     },{
-        title: "SmdCn's Blog",
-        href: "http://blog.smdcn.net"
+        title: "Yosoro/markdown",
+        href: "https://github.com/IceEnd/Yosoro/blob/master/CHANGELOG.md"
     },{
-        title: "David's Game",
-        href: "https://www.ruoyaowu.com/"
+        title: "富天博客",
+        href: "http://www.mafutian.net/"
     },{
-        title: "DHong Say",
-        href: "http://dhong.co"
+        title: "Hux Blog",
+        href: "http://huangxuan.me/"
+    },{
+        title: "Dr-F",
+        href: "https://dreaming-forest.github.io/"
     },{
         title: "尹峰以为",
         href: "http://ingf.github.io/"
