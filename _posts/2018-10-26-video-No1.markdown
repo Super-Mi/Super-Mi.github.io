@@ -3,7 +3,7 @@ layout: post
 title: "追光者"
 subtitle: "video-No.1"
 author: "Super-Mi"
-header-img: "https://ws3.sinaimg.cn/large/6f8a2832ly1fw4metzegcj21z418gnjm.jpg"
+header-img: "img/post-first-article.jpg"
 header-mask: 0.4
 tags:
   - 视频
@@ -18,7 +18,7 @@ tags:
 **追光者**
 
 <div>
-<video width="640" height="360" controls="controls">
+<video width="320" height="240" controls="controls">
   
   <source src="http://hc.yinyuetai.com/888D01604965A76C0B801B5368348436.mp4" type="video/mp4">
   <source src="movie.ogg" type="video/ogg">
