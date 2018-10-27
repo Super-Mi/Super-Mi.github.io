@@ -4,9 +4,11 @@
 {% endcomment %}
 
 {% if include.type == 'post' %}
-<style type="text/css" class="aligen-center aligen-middle" style="height: 619px;">
+<style type="text/css" >
     header.intro-header{
         position: relative;
+        width: 100%;
+        height: 619px;
         background-image: url('{{ site.baseurl }}/{% if page.header-img %}{{ page.header-img }}{% else %}{{ site.header-img }}{% endif %}');
         background: {{ page.header-bg-css }};
     }
