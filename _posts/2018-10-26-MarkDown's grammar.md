@@ -319,8 +319,6 @@ Markdown的扩展语法，hexo不支持
  
  >[本文参考][5]
 
- <a href="#">
-	<h3 align="center">返回顶部</h3></a>
  
 [1]:https://super-mi.github.io/
 [2]:http://github.global.ssl.fastly.net/images/modules/logos_page/Octocat.png
