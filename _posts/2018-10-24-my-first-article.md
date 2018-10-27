@@ -18,10 +18,6 @@ tags:
 
 <h2>入坑</h2>
 
-<a href="#">
-<h2 align="center">返回顶部</h2></a>
-
-<h1 align="center"> hahu </h1>
 
 我相信大多数理工男都会对 Blog 网站之类有点兴趣吧，正是这小小而可怕的兴趣让我走上了这条不归路。~~（哎，好奇害死猫呀！）~~
 
@@ -41,5 +37,8 @@ tags:
 最后
 
 **"Welcome to my world!"**
+
+<a href="#">
+<h2 align="center">返回顶部</h2></a>
 
 ---
