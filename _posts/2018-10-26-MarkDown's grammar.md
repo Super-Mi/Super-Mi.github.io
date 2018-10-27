@@ -318,6 +318,9 @@ Markdown的扩展语法，hexo不支持
  以上基本够用，更详尽的请[参考文献10][3]，另外Markdown+R可以干大事，请[参考文献7][4]。
  
  >[本文参考][5]
+
+ <a href="#">
+	<h3 align="center">返回顶部</h3></a>
  
 [1]:https://super-mi.github.io/
 [2]:http://github.global.ssl.fastly.net/images/modules/logos_page/Octocat.png
