@@ -14,7 +14,7 @@
     {% if page.header-mask %}
     header.intro-header .header-mask{
         width: 100%;
-        height: 200px;
+        height: 100%;
         position: absolute;
         background: rgba(0,0,0, {{ page.header-mask }});
     }
@@ -54,9 +54,9 @@
 {% endif %}
 
 {% if include.type == 'keynote' %}
-<style type="text/css" ">
+<style type="text/css">
     header.intro-header{
-        /*height: 500px;*/
+        height: 1000px;
         overflow: hidden;
     }
     header.intro-header .container{
@@ -64,7 +64,7 @@
     }
     header iframe{
         width: 100%;
-        height: 200px;
+        height: 100%;
         border: 0;
     }
 </style>
