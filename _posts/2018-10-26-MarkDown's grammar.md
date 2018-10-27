@@ -17,7 +17,7 @@ tags:
 ## 视频
 
 <p align="center"> 
-<video width="640" height="360" controls="controls">
+<video width="100%" height="100%" controls="controls">
   <source src="https://dn-shimo-attachment.qbox.me/kDRjMibHWjkE3Q3y/%E4%BB%80%E4%B9%88%E6%98%AF_markdown.MP4#t=10,650" type="video/mp4">
   <source src="视频/什么是_markdown.mp4" type="video/mp4">
 Your browser does not support the video tag.
