@@ -19,8 +19,7 @@ tags:
 <h2>入坑</h2>
 
 <a href="#">
-<h2 align="center">返回顶部</h2>
-</a>
+<h2 align="center">返回顶部</h2></a>
 
 <h1 align="center"> hahu </h1>
 
