@@ -109,10 +109,10 @@ page-mathjax: false
 friends: [
     {
         title: "Dr-F",
-        href: "https://dreaming-forest.github.io/#"
+       <a href: "https://dreaming-forest.github.io/#" target="_blank"> </a>
     },{
         title: "不死鸟",
-        href: "https://lai.yuweining.cn/"
+       <a href: "https://lai.yuweining.cn/" target="_blank"> </a>
     },{
         title: "前端外刊评论",
         href: "http://qianduan.guru/"
