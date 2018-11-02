@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "《英雄救美的正确姿势》"
-subtitle: "video-No.1"
+subtitle: "video-No.2"
 author: "Super-Mi"
 header-img: "img/video/post-video-No.2.jpg"
 header-mask: 0.4
